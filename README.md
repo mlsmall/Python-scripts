@@ -1,2 +1,2 @@
 # Python-scripts
-Some python scripts I've made for fun.
+A small collection of python scripts.
